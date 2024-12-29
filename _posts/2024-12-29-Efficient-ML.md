@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024-12-19-TinyML-and-Efficient-Deep-Learning"
+title: "TinyML-and-Efficient-Deep-Learning"
 categories: course deep-learning TinyML
 ---
 
