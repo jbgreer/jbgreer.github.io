@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Efficient-ML"
-categories: course deep-learning TinyML
 ---
 
 # TinyML and Efficient Deep Learning Computing
