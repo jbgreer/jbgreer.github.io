@@ -1,13 +1,6 @@
 ---
 layout: page
-title: "Nothing to See Here"
+title: "About me"
 ---
-
-<ul>
-    {% for post in site.posts %}
-        <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-    {% endfor %}
-</ul>
+I'm Jim Greer.  Not that one.  The other one.
 
