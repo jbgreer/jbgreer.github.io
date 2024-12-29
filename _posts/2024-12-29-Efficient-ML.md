@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Course: TinyML and Efficient Deep Learning Computing  MIT 6.5490 Fall 2024"
+title: "2024-12-19-TinyML-and-Efficient-Deep-Learning"
 categories: course deep-learning TinyML
 ---
 
