@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TinyML-and-Efficient-Deep-Learning"
+title: "Efficient-ML"
 categories: course deep-learning TinyML
 ---
 
