@@ -1,5 +1,6 @@
 layout: page
 title: "About me"
-permalink: /about
+permalink: /about/contact
 
 I'm Jim Greer.  Not that one.  The other one.
+
