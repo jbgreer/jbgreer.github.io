@@ -1,9 +1,13 @@
 ---
 layout: page
-
-title: "About me"
-
-permalink: /about/contact
+title: "Nothing to See Here"
 ---
 
-I'm Jim Greer.  Not that one.  The other one.
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
+
