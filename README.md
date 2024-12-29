@@ -1,5 +1,4 @@
 ---
 layout: page
-title: "Nothing to See Here"
+title: Nothing to See Here
 ---
-
