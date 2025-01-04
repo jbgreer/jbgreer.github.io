@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 13:11:56 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 16:10:20 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Efficient ML</title>
+      <link>http://localhost:1313/post/efficient-ml/</link>
+      <pubDate>Sat, 04 Jan 2025 16:10:20 -0600</pubDate>
+      <guid>http://localhost:1313/post/efficient-ml/</guid>
+      <description>&lt;h2 id=&#34;tinyml-and-efficient-deep-learning--computing&#34;&gt;TinyML and Efficient Deep Learning  Computing&lt;/h2&gt;&#xA;&lt;h3 id=&#34;mit-65940-fall-2024&#34;&gt;MIT 6.5940 Fall 2024&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://efficientml.ai&#34;&gt;This&lt;/a&gt; course focuses on efficient machine&#xA;learning and systems. This is a crucial area as deep neural networks demand extraordinary levels&#xA;of computation, hindering its deployment on everyday devices and burdening the cloud&#xA;infrastructure. This course introduces efficient AI computing techniques that enable powerful deep&#xA;learning applications on resource-constrained devices. Topics include model compression, pruning,&#xA;quantization, neural architecture search, distributed training, data/model parallelism, gradient&#xA;compression, and on-device fine-tuning. It also introduces application-specific acceleration&#xA;techniques for large language models and diffusion models. Students will get hands-on experience&#xA;implementing model compression techniques and deploying large language models (Llama2-7B) on a&#xA;laptop.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -17,11 +24,11 @@
       <description>&lt;p&gt;I&amp;rsquo;m Jim Greer.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Not &lt;a href=&#34;https://jackryan.fandom.com/wiki/James_Greer&#34;&gt;that&lt;/a&gt; one.&lt;/li&gt;&#xA;&lt;li&gt;Not &lt;a href=&#34;https://www.linkedin.com/in/jimgreer/&#34;&gt;that&lt;/a&gt; one.&lt;/li&gt;&#xA;&lt;li&gt;Not &lt;a href=&#34;https://instagram.com/jim_____greer/&#34;&gt;that&lt;/a&gt; one, either.&lt;/li&gt;&#xA;&lt;li&gt;Not even &lt;a href=&#34;https://www.imdb.com/name/nm0007079/&#34;&gt;that&lt;/a&gt; one or &lt;a href=&#34;http://digitalchildren.net/&#34;&gt;that&lt;/a&gt; one.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The other one.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>4 Jan 2025</title>
+      <title>4-Jan-2025.md</title>
       <link>http://localhost:1313/post/4-jan-2025/</link>
       <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
       <guid>http://localhost:1313/post/4-jan-2025/</guid>
-      <description>&lt;h2 id=&#34;dimity-jones-in-puzzle-castlehttpsobnakwaitchiodimityjones&#34;&gt;&lt;a href=&#34;https://obnakwa.itch.io/dimityjones&#34;&gt;Dimity Jones in Puzzle Castle&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Dimity Jones in Puzzle Castle&lt;/em&gt; is in the form of a single text file, of which only the first&#xA;chapter is readable. Subsequent chapters must be deciphered by you, using the answers to puzzles&#xA;that you must solve!&lt;/p&gt;&#xA;&lt;p&gt;With eighty-nine conundrums to crack and ciphers to decode, this 110,000-word novel is unlike any&#xA;other, offering dozens of hours of delight, befuddlement, and heart-pounding adventure to readers&#xA;of all ages who love puzzles, programming, and poetry &amp;hellip; or at least poet-villains.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;dimity-jones-in-puzzle-castle&#34;&gt;Dimity Jones in Puzzle Castle&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://obnakwa.itch.io/dimityjones&#34;&gt;Dimity Jones in Puzzle Castle&lt;/a&gt; is in the form of a single&#xA;text file, of which only the first chapter is readable. Subsequent chapters must be deciphered by&#xA;you, using the answers to puzzles that you must solve!&lt;/p&gt;&#xA;&lt;p&gt;With eighty-nine conundrums to crack and ciphers to decode, this 110,000-word novel is unlike any&#xA;other, offering dozens of hours of delight, befuddlement, and heart-pounding adventure to readers&#xA;of all ages who love puzzles, programming, and poetry &amp;hellip; or at least poet-villains.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@ title = 'Nothing to see here'
 theme = 'risotto'
 author = "Jim Greer"
 copyright = "© [Jim Greer](https://jbgreer.github.io)."
-paginate = 3
+pagination.pagerSize = 3
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
