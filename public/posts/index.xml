@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nothing to see here</title>
-    <link>https://jbgreer.github.io/</link>
-    <description>Recent content on Nothing to see here</description>
+    <title>Posts on Nothing to see here</title>
+    <link>https://jbgreer.github.io/posts/</link>
+    <description>Recent content in Posts on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jan 2025 12:30:23 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4 Jan 2025</title>
       <link>https://jbgreer.github.io/posts/4-jan-2025/</link>
