@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2025-01-04T13:11:56-06:00
-draft = true
+draft = false
 +++
 
 I'm Jim Greer.
