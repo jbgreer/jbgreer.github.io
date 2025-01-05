@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/clojure-for-the-brave-and-true/</loc>
+    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/explorations-in-clojures-core-logic/</loc>
     <lastmod>2025-01-05T09:41:14-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-05T09:41:14-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-05T09:41:14-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/beautiful-racket/</loc>
+    <lastmod>2025-01-04T21:03:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming-languages/</loc>
+    <lastmod>2025-01-04T21:03:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/racket/</loc>
+    <lastmod>2025-01-04T21:03:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-04T21:03:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/minikanren/</loc>
@@ -44,7 +56,5 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 09:41:14 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 13:01:22 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clojure for the Brave and True</title>
+      <link>http://localhost:1313/post/clojure-for-the-brave-and-true/</link>
+      <pubDate>Sun, 05 Jan 2025 13:01:22 -0600</pubDate>
+      <guid>http://localhost:1313/post/clojure-for-the-brave-and-true/</guid>
+      <description>&lt;h2 id=&#34;clojure-for-the-brave-and-truehttpswwwbraveclojurecom&#34;&gt;&lt;a href=&#34;https://www.braveclojure.com/&#34;&gt;Clojure for the Brave and True&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Do you want to learn Clojure, the most powerful and fun programming language on the planet? Do you want to unravel the mysteries of Lisp and functional programming? Do you want to punch hobbits and track down glittery vampires? Then you need to read this book!&lt;/p&gt;&#xA;&lt;p&gt;Clojure’s popularity continues to grow, with companies like Netflix using it to build everything from complex, distributed systems to simple microservices to user interfaces. In Clojure for the Brave and True, you&amp;rsquo;ll learn to wield this awesome language to its fullest!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Explorations in Clojures Core Logic</title>
       <link>http://localhost:1313/post/explorations-in-clojures-core-logic/</link>
@@ -42,7 +49,7 @@
       <link>http://localhost:1313/post/ink-and-switch/</link>
       <pubDate>Sat, 04 Jan 2025 20:40:53 -0600</pubDate>
       <guid>http://localhost:1313/post/ink-and-switch/</guid>
-      <description>&lt;h2 id=&#34;ink-and-switchhttpswwwinkandswitchcom&#34;&gt;&lt;a href=&#34;https://www.inkandswitch.com/&#34;&gt;Ink and Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;An independent research lab exploring the future of tools for thought.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;ink-and-switchhttpswwwinkandswitchcom&#34;&gt;&lt;a href=&#34;https://www.inkandswitch.com/&#34;&gt;Ink and Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;An independent research lab exploring the future of tools for thought.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bo-Tato Lisp</title>

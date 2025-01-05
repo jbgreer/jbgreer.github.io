@@ -6,4 +6,6 @@ draft = false
 
 ## [Ink and Switch](https://www.inkandswitch.com/)
 
+### Abstract
+
 An independent research lab exploring the future of tools for thought.

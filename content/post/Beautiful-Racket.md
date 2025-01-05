@@ -1,6 +1,8 @@
 +++
 title = 'Beautiful Racket'
 date = 2025-01-04T21:03:31-06:00
+category = ['book']
+tags = [ 'programming languages', 'racket' ]
 draft = false
 +++
 

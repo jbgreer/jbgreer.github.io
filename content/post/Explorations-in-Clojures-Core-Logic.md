@@ -1,7 +1,7 @@
 +++
 title = 'Explorations in Clojures Core Logic'
 date = 2025-01-05T09:41:14-06:00
-draft = true
+draft = false
 +++
 
 ## [Explorations in Clojure's Core Logic](https://jrheard.tumblr.com/post/43575891007/explorations-in-clojures-corelogic)

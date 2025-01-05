@@ -7,6 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 21:03:31 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Languages</title>
+      <link>http://localhost:1313/tags/programming-languages/</link>
+      <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Racket</title>
+      <link>http://localhost:1313/tags/racket/</link>
+      <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/racket/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

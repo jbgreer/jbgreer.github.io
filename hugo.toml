@@ -57,9 +57,9 @@ url = "https://github.com/jbgreer"
     weight = 10
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+category = 'categories'
+series = 'series'
+tag = 'tags'
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
