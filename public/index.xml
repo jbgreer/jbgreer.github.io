@@ -7,8 +7,50 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 16:55:14 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 21:03:31 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beautiful Racket</title>
+      <link>http://localhost:1313/post/beautiful-racket/</link>
+      <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
+      <guid>http://localhost:1313/post/beautiful-racket/</guid>
+      <description>&lt;h2 id=&#34;beautiful-racket-an-introduction-to-language-oriented-programminghttpsbeautifulracketcom&#34;&gt;&lt;a href=&#34;https://beautifulracket.com/&#34;&gt;Beautiful Racket, an Introduction to Language-oriented Programming&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This book teaches you how to design and imple­ment program­ming languages, a powerful tech­nique known as language-oriented program­ming. We’ll be using Racket, a language expressly built for making other languages&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Author &lt;a href=&#34;https://matthewbutterick.com/&#34;&gt;Matthew Butterick&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MiniKaren</title>
+      <link>http://localhost:1313/post/minikaren/</link>
+      <pubDate>Sat, 04 Jan 2025 20:53:06 -0600</pubDate>
+      <guid>http://localhost:1313/post/minikaren/</guid>
+      <description>&lt;h2 id=&#34;relational-programming-in-minikarenhttpsgithubcomwebyrddissertation-single-spacedblobmasterthesispdf&#34;&gt;&lt;a href=&#34;https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf&#34;&gt;Relational Programming in miniKaren&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The promise of logic programming is that programs can be written relationally,&#xA;without distinguishing between input and output arguments. Relational programs&#xA;are remarkably flexible—for example, a relational type-inferencer also performs type&#xA;checking and type inhabitation, while a relational theorem prover generates theo-&#xA;rems as well as proofs and can even be used as a simple proof assistant.&#xA;Unfortunately, writing relational programs is difficult, and requires many inter-&#xA;esting and unusual tools and techniques. For example, a relational interpreter for&#xA;a subset of Scheme might use nominal unification to support variable binding and&#xA;scope, Constraint Logic Programming over Finite Domains (CLP(FD)) to imple-&#xA;ment relational arithmetic, and tabling to improve termination behavior.&#xA;In this dissertation I present miniKanren, a family of languages specifically de-&#xA;signed for relational programming, and which supports a variety of relational idioms&#xA;and techniques. I show how miniKanren can be used to write interesting relational&#xA;programs, including an extremely flexible lean tableau theorem prover and a novel&#xA;constraint-free binary arithmetic system with strong termination guarantees. I also&#xA;present interesting and practical techniques used to implement miniKanren, includ-&#xA;ing a nominal unifier that uses triangular rather than idempotent substitutions and&#xA;a novel “walk”-based algorithm for variable lookup in triangular substitutions.&#xA;The result of this research is a family of languages that supports a variety of&#xA;relational idioms and techniques, making it feasible and useful to write interesting&#xA;programs as relations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scattered Thoughts</title>
+      <link>http://localhost:1313/post/scattered-thoughts/</link>
+      <pubDate>Sat, 04 Jan 2025 20:50:21 -0600</pubDate>
+      <guid>http://localhost:1313/post/scattered-thoughts/</guid>
+      <description>&lt;h2 id=&#34;scattered-thoughtshttpswwwscattered-thoughtsnet&#34;&gt;&lt;a href=&#34;https://www.scattered-thoughts.net/&#34;&gt;Scattered Thoughts&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Blog of Jamie Brandon on &amp;ldquo;Tinkering with systems.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ink and Switch</title>
+      <link>http://localhost:1313/post/ink-and-switch/</link>
+      <pubDate>Sat, 04 Jan 2025 20:40:53 -0600</pubDate>
+      <guid>http://localhost:1313/post/ink-and-switch/</guid>
+      <description>&lt;h2 id=&#34;ink-and-switchhttpswwwinkandswitchcom&#34;&gt;&lt;a href=&#34;https://www.inkandswitch.com/&#34;&gt;Ink and Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;An independent research lab exploring the future of tools for thought.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bo-Tato Lisp</title>
+      <link>http://localhost:1313/post/bo-tato-lisp/</link>
+      <pubDate>Sat, 04 Jan 2025 20:37:27 -0600</pubDate>
+      <guid>http://localhost:1313/post/bo-tato-lisp/</guid>
+      <description>&lt;h2 id=&#34;adventures-in-the-land-of-lisphttpsbo-tatogithubio20230617adventures-in-the-land-of-lisphtml&#34;&gt;&lt;a href=&#34;https://bo-tato.github.io/2023/06/17/adventures-in-the-land-of-lisp.html&#34;&gt;Adventures in the Land of Lisp&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I’ve been experimenting with lisps for about 6 month now, clojure, common lisp, emacs lisp, and a little racket. I recently finished my biggest code so far, solving all the Protohackers challenges in Common Lisp, so I thought I’d share my thoughts. I also contributed a little to “real software” with bug fixes and small features in projects but for the most part I don’t have any real experience yet, this is just my first impressions, not the words of someone experienced in these languages. The TLDR is: don’t be scared off by the parenthesis, and don’t assume languages are better because they’re more “modern”. If you’re tired of discussion of old topics (parenthesis, editors, languages), then skip ahead to the protohackers section for dissection of some tricky concurrency bugs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Simple Made Easy</title>
+      <link>http://localhost:1313/post/simple-made-easy/</link>
+      <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
+      <guid>http://localhost:1313/post/simple-made-easy/</guid>
+      <description>&lt;h2 id=&#34;simple-made-easy---rich-hickey2011httpswwwyoutubecomwatchvlktk3hcgta8&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LKtk3HCgTa8&#34;&gt;Simple Made Easy - Rich Hickey(2011)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 30 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.&lt;/p&gt;&#xA;&lt;p&gt;This keynote was given at Strange Loop 2011, and is perhaps the best known and most highly regarded of Rich&amp;rsquo;s many excellent talks, ushering in a new way to think about the problems of software design and the constant fight against complexity.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>CPS</title>
       <link>http://localhost:1313/post/cps/</link>
