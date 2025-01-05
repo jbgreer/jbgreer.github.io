@@ -1,6 +1,7 @@
 +++
 title = 'Bo-Tato Lisp'
 date = 2025-01-04T20:37:27-06:00
+tags = [ 'programming languages', 'lisp' ]
 draft = false
 +++
 

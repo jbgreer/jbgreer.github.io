@@ -1,6 +1,7 @@
 +++
 title = 'Efficient ML'
 date = 2025-01-04T16:10:20-06:00
+tags = ['machine learning', 'course']
 draft = false
 +++
 

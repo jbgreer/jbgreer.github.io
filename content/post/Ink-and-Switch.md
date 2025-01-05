@@ -1,6 +1,7 @@
 +++
 title = 'Ink and Switch'
 date = 2025-01-04T20:40:53-06:00
+tags = ['research lab']
 draft = false
 +++
 

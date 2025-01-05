@@ -1,6 +1,7 @@
 +++
 title = 'Explorations in Clojures Core Logic'
 date = 2025-01-05T09:41:14-06:00
+tags = ['clojure', 'miniKanren']
 draft = false
 +++
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Nothing to see here</title>
+    <link>https://jbgreer.github.io/tags/book/</link>
+    <description>Recent content in Book on Nothing to see here</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 12:30:23 -0600</lastBuildDate>
+    <atom:link href="https://jbgreer.github.io/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dimity Jones</title>
+      <link>https://jbgreer.github.io/post/dimity-jones/</link>
+      <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
+      <guid>https://jbgreer.github.io/post/dimity-jones/</guid>
+      <description>&lt;h2 id=&#34;dimity-jones-in-puzzle-castlehttpsobnakwaitchiodimityjones&#34;&gt;&lt;a href=&#34;https://obnakwa.itch.io/dimityjones&#34;&gt;Dimity Jones in Puzzle Castle&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;A puzzle in the form of a single text file, of which only the first chapter is readable. Subsequent chapters must be deciphered by you, using the answers to puzzles that you must solve!  With eighty-nine conundrums to crack and ciphers to decode, this 110,000-word novel is unlike any other, offering dozens of hours of delight, befuddlement, and heart-pounding adventure to readers of all ages who love puzzles, programming, and poetry &amp;hellip; or at least poet-villains.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,25 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nothing to see here</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jbgreer.github.io/tags/</link>
     <description>Recent content in Tags on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 21:03:31 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jan 2025 13:01:22 -0600</lastBuildDate>
+    <atom:link href="https://jbgreer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clojure</title>
+      <link>https://jbgreer.github.io/tags/clojure/</link>
+      <pubDate>Sun, 05 Jan 2025 13:01:22 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/clojure/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Programming Languages</title>
-      <link>http://localhost:1313/tags/programming-languages/</link>
-      <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
-      <guid>http://localhost:1313/tags/programming-languages/</guid>
+      <link>https://jbgreer.github.io/tags/programming-languages/</link>
+      <pubDate>Sun, 05 Jan 2025 13:01:22 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MiniKanren</title>
+      <link>https://jbgreer.github.io/tags/minikanren/</link>
+      <pubDate>Sun, 05 Jan 2025 09:41:14 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/minikanren/</guid>
       <description></description>
     </item>
     <item>
       <title>Racket</title>
-      <link>http://localhost:1313/tags/racket/</link>
+      <link>https://jbgreer.github.io/tags/racket/</link>
       <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
-      <guid>http://localhost:1313/tags/racket/</guid>
+      <guid>https://jbgreer.github.io/tags/racket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>https://jbgreer.github.io/tags/paper/</link>
+      <pubDate>Sat, 04 Jan 2025 20:53:06 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://jbgreer.github.io/tags/blog/</link>
+      <pubDate>Sat, 04 Jan 2025 20:50:21 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Lab</title>
+      <link>https://jbgreer.github.io/tags/research-lab/</link>
+      <pubDate>Sat, 04 Jan 2025 20:40:53 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/research-lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lisp</title>
+      <link>https://jbgreer.github.io/tags/lisp/</link>
+      <pubDate>Sat, 04 Jan 2025 20:37:27 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/lisp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datatomic</title>
+      <link>https://jbgreer.github.io/tags/datatomic/</link>
+      <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/datatomic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Design</title>
+      <link>https://jbgreer.github.io/tags/software-design/</link>
+      <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/software-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>https://jbgreer.github.io/tags/video/</link>
+      <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Course</title>
+      <link>https://jbgreer.github.io/tags/course/</link>
+      <pubDate>Sat, 04 Jan 2025 16:10:20 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/course/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://jbgreer.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 04 Jan 2025 16:10:20 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>https://jbgreer.github.io/tags/book/</link>
+      <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzle</title>
+      <link>https://jbgreer.github.io/tags/puzzle/</link>
+      <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/puzzle/</guid>
       <description></description>
     </item>
   </channel>

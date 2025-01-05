@@ -1,6 +1,7 @@
 +++
 title = 'Simple Made Easy'
 date = 2025-01-04T20:29:44-06:00
+tags = ['video', 'clojure', 'datatomic', 'software design']
 draft = false
 +++
 

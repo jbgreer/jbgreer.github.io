@@ -1,6 +1,7 @@
 +++
 title = 'MiniKanren'
 date = 2025-01-04T20:53:06-06:00
+tags = ['paper', 'miniKanren']
 draft = false
 +++
 

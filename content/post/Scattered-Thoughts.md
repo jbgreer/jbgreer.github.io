@@ -1,6 +1,7 @@
 +++
 title = 'Scattered Thoughts'
 date = 2025-01-04T20:50:21-06:00
+tags = ['blog']
 draft = false
 +++
 

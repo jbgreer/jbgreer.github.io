@@ -1,6 +1,7 @@
 +++
 title = 'Dimity Jones'
 date = 2025-01-04T12:30:23-06:00
+tags = ['book', 'puzzle']
 draft = false
 +++
 

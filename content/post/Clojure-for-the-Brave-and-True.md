@@ -1,7 +1,8 @@
 +++
 title = 'Clojure for the Brave and True'
 date = 2025-01-05T13:01:22-06:00
-draft = true
+tags = [ 'programming languages', 'clojure' ]
+draft = false
 +++
 
 ## [Clojure for the Brave and True](https://www.braveclojure.com/)
