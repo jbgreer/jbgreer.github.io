@@ -1,10 +1,12 @@
 +++
-title = 'MiniKaren'
+title = 'MiniKanren'
 date = 2025-01-04T20:53:06-06:00
 draft = false
 +++
 
-## [Relational Programming in miniKaren](https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf)
+## [Relational Programming in miniKanren](https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf)
+
+### Abstract
 
 The promise of logic programming is that programs can be written relationally,
 without distinguishing between input and output arguments. Relational programs

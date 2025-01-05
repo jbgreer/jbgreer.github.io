@@ -6,4 +6,6 @@ draft = false
 
 ## [Scattered Thoughts](https://www.scattered-thoughts.net/)
 
+### Abstract
+
 Blog of Jamie Brandon on "Tinkering with systems."
