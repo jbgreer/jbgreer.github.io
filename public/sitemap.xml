@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/clojure/</loc>
-    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/clojure-for-the-brave-and-true/</loc>
-    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+    <loc>http://localhost:1313/post/clojure-markov-chain-poetry/</loc>
+    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programming-languages/</loc>
-    <lastmod>2025-01-05T13:01:22-06:00</lastmod>
+    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/clojure-for-the-brave-and-true/</loc>
     <lastmod>2025-01-05T13:01:22-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/explorations-in-clojures-core-logic/</loc>
