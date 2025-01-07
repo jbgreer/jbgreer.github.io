@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Mon, 06 Jan 2025 17:36:12 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 16:08:58 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RacoGrad</title>
+      <link>http://localhost:1313/post/racograd/</link>
+      <pubDate>Tue, 07 Jan 2025 16:08:58 -0600</pubDate>
+      <guid>http://localhost:1313/post/racograd/</guid>
+      <description>&lt;h2 id=&#34;racogradhttpsgithubcomdev-null321racograd&#34;&gt;&lt;a href=&#34;https://github.com/dev-null321/RacoGrad&#34;&gt;RacoGrad&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;RacoGrad is a simple deep learning library implemented in Racket, a version of scheme-lisp, designed to provide a basic framework for building and training feedforward neural networks. The library includes essential components such as tensor operations, activation functions, loss functions, and backpropagation for gradient calculation and weight updates. This is a hobby project, with updates coming sporadically.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Unknown.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Clojure Markov Chain Poetry</title>
       <link>http://localhost:1313/post/clojure-markov-chain-poetry/</link>

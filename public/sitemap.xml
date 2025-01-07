@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <lastmod>2025-01-07T16:08:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-07T16:08:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-01-07T16:08:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/racket/</loc>
+    <lastmod>2025-01-07T16:08:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/racograd/</loc>
+    <lastmod>2025-01-07T16:08:58-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-07T16:08:58-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/clojure/</loc>
     <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/clojure-markov-chain-poetry/</loc>
     <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/programming-languages/</loc>
-    <lastmod>2025-01-06T17:36:12-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/clojure-for-the-brave-and-true/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2025-01-05T09:41:14-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/beautiful-racket/</loc>
-    <lastmod>2025-01-04T21:03:31-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/racket/</loc>
     <lastmod>2025-01-04T21:03:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/minikanren/</loc>
