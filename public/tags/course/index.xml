@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 16:10:20 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 19:35:19 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art and Science of PCB Design</title>
+      <link>http://localhost:1313/post/the-art-and-science-of-pcb-design/</link>
+      <pubDate>Wed, 08 Jan 2025 19:35:19 -0600</pubDate>
+      <guid>http://localhost:1313/post/the-art-and-science-of-pcb-design/</guid>
+      <description>&lt;h2 id=&#34;the-art-and-science-of-pcb-designhttpspcbmitedu&#34;&gt;&lt;a href=&#34;https://pcb.mit.edu&#34;&gt;The Art and Science of PCB Design&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the official course website for the MIT IAP 2025 PCB Design Class! MIT students interested in taking the course should fill out this form. Those who are not MIT students or unable to join us during IAP 2025, but still interested in learning the basics of PCB design, can check out our course archives which has materials, labs, and recorded lectures from previous offerings of the class.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Efficient ML</title>
       <link>http://localhost:1313/post/efficient-ml/</link>
