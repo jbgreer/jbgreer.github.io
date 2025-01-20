@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/course/</loc>
-    <lastmod>2025-01-08T19:35:19-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/electronics/</loc>
-    <lastmod>2025-01-08T19:35:19-06:00</lastmod>
+    <lastmod>2025-01-20T17:24:11-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-08T19:35:19-06:00</lastmod>
+    <lastmod>2025-01-20T17:24:11-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/physics/</loc>
+    <lastmod>2025-01-20T17:24:11-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-08T19:35:19-06:00</lastmod>
+    <lastmod>2025-01-20T17:24:11-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-20T17:24:11-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/the-theorecical-minimum/</loc>
+    <lastmod>2025-01-20T17:24:11-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/electronics/</loc>
     <lastmod>2025-01-08T19:35:19-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/the-art-and-science-of-pcb-design/</loc>
