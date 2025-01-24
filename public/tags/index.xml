@@ -7,13 +7,20 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 17:24:11 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 15:33:13 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Course</title>
       <link>http://localhost:1313/tags/course/</link>
-      <pubDate>Mon, 20 Jan 2025 17:24:11 -0600</pubDate>
+      <pubDate>Fri, 24 Jan 2025 15:33:13 -0600</pubDate>
       <guid>http://localhost:1313/tags/course/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
+      <pubDate>Fri, 24 Jan 2025 15:33:13 -0600</pubDate>
+      <guid>http://localhost:1313/tags/math/</guid>
       <description></description>
     </item>
     <item>
