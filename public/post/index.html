@@ -57,6 +57,22 @@
     
     <article class="post">
         <header class="post__header">
+            <h1><a href="http://localhost:1313/post/rust-embedded-scheme/">Rust Embedded Scheme</a></h1>
+            <p class="post__meta">
+                ,
+                <span class="date">1 February 2025</span>
+            </p>
+        </header>
+
+        <section class="post__summary">
+            <h2 id="steelhttpsgithubcommattwparassteel-embeddable-scheme-interpreter-written-in-rust"><a href="https://github.com/mattwparas/steel">Steel</a>: embeddable scheme interpreter written in Rust</h2>
+<h3 id="abstract">Abstract</h3>
+<p>Steel is an embeddable scheme interpreter, with a standalone cli included as well. Inspired largely by Racket, the language seeks to be ergonomic scheme variant helpful for embedding in applications, or to be used on its own with high performance functions implemented in Rust. The language implementation itself contains a fairly powerful macro system based on the syntax-rules style and a bytecode virtual machine. At the moment, it is not explicitly compliant with any individual scheme specification.</p>
+        </section>
+    </article>
+    
+    <article class="post">
+        <header class="post__header">
             <h1><a href="http://localhost:1313/post/computational-linear-algebra/">Computational Linear Algebra</a></h1>
             <p class="post__meta">
                 ,
@@ -172,6 +188,8 @@
 <h3 id="abstract">Abstract</h3>
 <p>&ldquo;I first heard of core.logic three or four months ago, and I’ve been trying to learn more about it ever since. It’s apparently an implementation of miniKanren in Clojure, where miniKanren is a small language implemented in Scheme that’s a stripped-down version of a system called KANREN.
 Long story short, core.logic is a library that lets you do logic programming in Clojure.&rdquo;</p>
+<h2 id="source">Source</h2>
+<p><a href="https://jrheard.tumblr.com/">a page of tumbling madness</a> tumblelog by JR Heard.</p>
         </section>
     </article>
     
@@ -308,6 +326,7 @@ programs as relations.</p>
 <p><a href="https://bernsteinbear.com/blog/cps/">Into CPS, never to return</a></p>
 <h3 id="abstract">Abstract</h3>
 <p>CPS, or continuation-passing style, is an intermediate representation for programs, particularly functional programs. It’s used in compilers for languages such as SML and Scheme.  Much of its utility comes from its support for tail calls and nonlocal control flow such as call/cc, but it can also be used as an optimization target just as SSA, or static single assignment, often is.</p>
+<p>In CPS, there are two rules: first, that function/operator arguments must always be trivial; second, that function calls do not return. From this, a lot falls out.</p>
         </section>
     </article>
     

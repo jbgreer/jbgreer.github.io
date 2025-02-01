@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Fri, 24 Jan 2025 15:33:13 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 17:36:03 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Languages</title>
+      <link>http://localhost:1313/tags/programming-languages/</link>
+      <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
+      <guid>http://localhost:1313/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
+      <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
+      <guid>http://localhost:1313/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scheme</title>
+      <link>http://localhost:1313/tags/scheme/</link>
+      <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
+      <guid>http://localhost:1313/tags/scheme/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Course</title>
       <link>http://localhost:1313/tags/course/</link>
@@ -56,13 +77,6 @@
       <link>http://localhost:1313/tags/clojure/</link>
       <pubDate>Mon, 06 Jan 2025 17:36:12 -0600</pubDate>
       <guid>http://localhost:1313/tags/clojure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming Languages</title>
-      <link>http://localhost:1313/tags/programming-languages/</link>
-      <pubDate>Mon, 06 Jan 2025 17:36:12 -0600</pubDate>
-      <guid>http://localhost:1313/tags/programming-languages/</guid>
       <description></description>
     </item>
     <item>
