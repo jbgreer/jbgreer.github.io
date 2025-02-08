@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics on Nothing to see here</title>
-    <link>https://jbgreer.github.io/tags/electronics/</link>
+    <link>http://localhost:1313/tags/electronics/</link>
     <description>Recent content in Electronics on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Wed, 08 Jan 2025 19:35:19 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Art and Science of PCB Design</title>
-      <link>https://jbgreer.github.io/post/the-art-and-science-of-pcb-design/</link>
+      <link>http://localhost:1313/post/the-art-and-science-of-pcb-design/</link>
       <pubDate>Wed, 08 Jan 2025 19:35:19 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/the-art-and-science-of-pcb-design/</guid>
+      <guid>http://localhost:1313/post/the-art-and-science-of-pcb-design/</guid>
       <description>&lt;h2 id=&#34;the-art-and-science-of-pcb-designhttpspcbmitedu&#34;&gt;&lt;a href=&#34;https://pcb.mit.edu&#34;&gt;The Art and Science of PCB Design&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the official course website for the MIT IAP 2025 PCB Design Class! MIT students interested in taking the course should fill out this form. Those who are not MIT students or unable to join us during IAP 2025, but still interested in learning the basics of PCB design, can check out our course archives which has materials, labs, and recorded lectures from previous offerings of the class.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rust on Nothing to see here</title>
-    <link>https://jbgreer.github.io/tags/rust/</link>
+    <link>http://localhost:1313/tags/rust/</link>
     <description>Recent content in Rust on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sat, 01 Feb 2025 17:36:03 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rust Embedded Scheme</title>
-      <link>https://jbgreer.github.io/post/rust-embedded-scheme/</link>
+      <link>http://localhost:1313/post/rust-embedded-scheme/</link>
       <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/rust-embedded-scheme/</guid>
+      <guid>http://localhost:1313/post/rust-embedded-scheme/</guid>
       <description>&lt;h2 id=&#34;steelhttpsgithubcommattwparassteel-embeddable-scheme-interpreter-written-in-rust&#34;&gt;&lt;a href=&#34;https://github.com/mattwparas/steel&#34;&gt;Steel&lt;/a&gt;: embeddable scheme interpreter written in Rust&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Steel is an embeddable scheme interpreter, with a standalone cli included as well. Inspired largely by Racket, the language seeks to be ergonomic scheme variant helpful for embedding in applications, or to be used on its own with high performance functions implemented in Rust. The language implementation itself contains a fairly powerful macro system based on the syntax-rules style and a bytecode virtual machine. At the moment, it is not explicitly compliant with any individual scheme specification.&lt;/p&gt;</description>
     </item>
   </channel>
