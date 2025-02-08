@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clojure on Nothing to see here</title>
-    <link>http://localhost:1313/tags/clojure/</link>
+    <link>https://jbgreer.github.io/tags/clojure/</link>
     <description>Recent content in Clojure on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Mon, 06 Jan 2025 17:36:12 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/clojure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/clojure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clojure Markov Chain Poetry</title>
-      <link>http://localhost:1313/post/clojure-markov-chain-poetry/</link>
+      <link>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</link>
       <pubDate>Mon, 06 Jan 2025 17:36:12 -0600</pubDate>
-      <guid>http://localhost:1313/post/clojure-markov-chain-poetry/</guid>
+      <guid>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</guid>
       <description>&lt;h2 id=&#34;clojure-generation-of-edward-lear-inspired-poetry&#34;&gt;Clojure generation of Edward Lear inspired poetry&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;We are going to explore Clojure by creating a fun project together. In particular, we will create a twitter bot that creates its text based on a mashup of Edward Lear’s poetry, and a goodly selection of functional programming text taken from Wikipedia.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://howistart.org&#34;&gt;How I Start&lt;/a&gt; entry by &lt;a href=&#34;https://gigasquidsoftware.com/&#34;&gt;Carin Meier&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clojure for the Brave and True</title>
-      <link>http://localhost:1313/post/clojure-for-the-brave-and-true/</link>
+      <link>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</link>
       <pubDate>Sun, 05 Jan 2025 13:01:22 -0600</pubDate>
-      <guid>http://localhost:1313/post/clojure-for-the-brave-and-true/</guid>
+      <guid>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</guid>
       <description>&lt;h2 id=&#34;clojure-for-the-brave-and-truehttpswwwbraveclojurecom&#34;&gt;&lt;a href=&#34;https://www.braveclojure.com/&#34;&gt;Clojure for the Brave and True&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Do you want to learn Clojure, the most powerful and fun programming language on the planet? Do you want to unravel the mysteries of Lisp and functional programming? Do you want to punch hobbits and track down glittery vampires? Then you need to read this book!&lt;/p&gt;&#xA;&lt;p&gt;Clojure’s popularity continues to grow, with companies like Netflix using it to build everything from complex, distributed systems to simple microservices to user interfaces. In Clojure for the Brave and True, you&amp;rsquo;ll learn to wield this awesome language to its fullest!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Explorations in Clojures Core Logic</title>
-      <link>http://localhost:1313/post/explorations-in-clojures-core-logic/</link>
+      <link>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</link>
       <pubDate>Sun, 05 Jan 2025 09:41:14 -0600</pubDate>
-      <guid>http://localhost:1313/post/explorations-in-clojures-core-logic/</guid>
+      <guid>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</guid>
       <description>&lt;h2 id=&#34;explorations-in-clojures-core-logichttpsjrheardtumblrcompost43575891007explorations-in-clojures-corelogic&#34;&gt;&lt;a href=&#34;https://jrheard.tumblr.com/post/43575891007/explorations-in-clojures-corelogic&#34;&gt;Explorations in Clojure&amp;rsquo;s Core Logic&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I first heard of core.logic three or four months ago, and I’ve been trying to learn more about it ever since. It’s apparently an implementation of miniKanren in Clojure, where miniKanren is a small language implemented in Scheme that’s a stripped-down version of a system called KANREN.&#xA;Long story short, core.logic is a library that lets you do logic programming in Clojure.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;source&#34;&gt;Source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jrheard.tumblr.com/&#34;&gt;a page of tumbling madness&lt;/a&gt; tumblelog by JR Heard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple Made Easy</title>
-      <link>http://localhost:1313/post/simple-made-easy/</link>
+      <link>https://jbgreer.github.io/post/simple-made-easy/</link>
       <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
-      <guid>http://localhost:1313/post/simple-made-easy/</guid>
+      <guid>https://jbgreer.github.io/post/simple-made-easy/</guid>
       <description>&lt;h2 id=&#34;simple-made-easy---rich-hickey2011httpswwwyoutubecomwatchvlktk3hcgta8&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LKtk3HCgTa8&#34;&gt;Simple Made Easy - Rich Hickey(2011)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 30 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.&lt;/p&gt;&#xA;&lt;p&gt;This keynote was given at Strange Loop 2011, and is perhaps the best known and most highly regarded of Rich&amp;rsquo;s many excellent talks, ushering in a new way to think about the problems of software design and the constant fight against complexity.&lt;/p&gt;</description>
     </item>
   </channel>

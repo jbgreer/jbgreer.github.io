@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racket on Nothing to see here</title>
-    <link>http://localhost:1313/tags/racket/</link>
+    <link>https://jbgreer.github.io/tags/racket/</link>
     <description>Recent content in Racket on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Tue, 07 Jan 2025 16:08:58 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/racket/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/racket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RacoGrad</title>
-      <link>http://localhost:1313/post/racograd/</link>
+      <link>https://jbgreer.github.io/post/racograd/</link>
       <pubDate>Tue, 07 Jan 2025 16:08:58 -0600</pubDate>
-      <guid>http://localhost:1313/post/racograd/</guid>
+      <guid>https://jbgreer.github.io/post/racograd/</guid>
       <description>&lt;h2 id=&#34;racogradhttpsgithubcomdev-null321racograd&#34;&gt;&lt;a href=&#34;https://github.com/dev-null321/RacoGrad&#34;&gt;RacoGrad&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;RacoGrad is a simple deep learning library implemented in Racket, a version of scheme-lisp, designed to provide a basic framework for building and training feedforward neural networks. The library includes essential components such as tensor operations, activation functions, loss functions, and backpropagation for gradient calculation and weight updates. This is a hobby project, with updates coming sporadically.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Unknown.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beautiful Racket</title>
-      <link>http://localhost:1313/post/beautiful-racket/</link>
+      <link>https://jbgreer.github.io/post/beautiful-racket/</link>
       <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
-      <guid>http://localhost:1313/post/beautiful-racket/</guid>
+      <guid>https://jbgreer.github.io/post/beautiful-racket/</guid>
       <description>&lt;h2 id=&#34;beautiful-racket-an-introduction-to-language-oriented-programminghttpsbeautifulracketcom&#34;&gt;&lt;a href=&#34;https://beautifulracket.com/&#34;&gt;Beautiful Racket, an Introduction to Language-oriented Programming&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;This book teaches you how to design and imple­ment program­ming languages, a powerful tech­nique known as language-oriented program­ming. We’ll be using Racket, a language expressly built for making other languages&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Author &lt;a href=&#34;https://matthewbutterick.com/&#34;&gt;Matthew Butterick&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

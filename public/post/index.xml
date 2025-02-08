@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nothing to see here</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://jbgreer.github.io/post/</link>
     <description>Recent content in Posts on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 17:36:03 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2025 15:35:27 -0600</lastBuildDate>
+    <atom:link href="https://jbgreer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TLA&#43; Video Course</title>
+      <link>https://jbgreer.github.io/post/tla&#43;-video-course/</link>
+      <pubDate>Sat, 08 Feb 2025 15:35:27 -0600</pubDate>
+      <guid>https://jbgreer.github.io/post/tla&#43;-video-course/</guid>
+      <description>&lt;h2 id=&#34;tla-video-coursehttpslamportazurewebsitesnetvideovideoshtml&#34;&gt;&lt;a href=&#34;https://lamport.azurewebsites.net/video/videos.html&#34;&gt;TLA+ Video Course&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;This is a series of video lectures to teach programmers and software engineers how&#xA;to write their own TLA+ specifications.  It assumes a basic understanding of&#xA;programming concepts.  Some knowledge of elementary mathematics, such as might be&#xA;taught in a beginning university math course for computer scientists, would also be helpful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;HN&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rust Embedded Scheme</title>
-      <link>http://localhost:1313/post/rust-embedded-scheme/</link>
+      <link>https://jbgreer.github.io/post/rust-embedded-scheme/</link>
       <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
-      <guid>http://localhost:1313/post/rust-embedded-scheme/</guid>
+      <guid>https://jbgreer.github.io/post/rust-embedded-scheme/</guid>
       <description>&lt;h2 id=&#34;steelhttpsgithubcommattwparassteel-embeddable-scheme-interpreter-written-in-rust&#34;&gt;&lt;a href=&#34;https://github.com/mattwparas/steel&#34;&gt;Steel&lt;/a&gt;: embeddable scheme interpreter written in Rust&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Steel is an embeddable scheme interpreter, with a standalone cli included as well. Inspired largely by Racket, the language seeks to be ergonomic scheme variant helpful for embedding in applications, or to be used on its own with high performance functions implemented in Rust. The language implementation itself contains a fairly powerful macro system based on the syntax-rules style and a bytecode virtual machine. At the moment, it is not explicitly compliant with any individual scheme specification.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computational Linear Algebra</title>
-      <link>http://localhost:1313/post/computational-linear-algebra/</link>
+      <link>https://jbgreer.github.io/post/computational-linear-algebra/</link>
       <pubDate>Fri, 24 Jan 2025 15:33:13 -0600</pubDate>
-      <guid>http://localhost:1313/post/computational-linear-algebra/</guid>
+      <guid>https://jbgreer.github.io/post/computational-linear-algebra/</guid>
       <description>&lt;h2 id=&#34;rob-101-computational-linear-algebrahttpsroboticsumicheduacademicscoursescourse-offeringsrob101-fall-2020&#34;&gt;&lt;a href=&#34;https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/&#34;&gt;ROB 101: Computational Linear Algebra&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Computational Linear Algebra is a pilot first-semester, first-year undergraduate course that will show how mathematics and computation are unified for reasoning about data and making discoveries about the world.&lt;/p&gt;&#xA;&lt;p&gt;Linear algebra and coding are rapidly becoming an essential foundation for the modern engineer in a computational world.  Students in this course will gain insights into the mathematical theory of linear algebra and its realization in practical computational tools.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Theoretical Minimum</title>
-      <link>http://localhost:1313/post/the-theoretical-minimum/</link>
-      <pubDate>Mon, 20 Jan 2025 17:24:11 -0600</pubDate>
-      <guid>http://localhost:1313/post/the-theoretical-minimum/</guid>
-      <description>&lt;h2 id=&#34;the-theoritical-miniumum-httpstheoreticalminimumcom&#34;&gt;&lt;a href=&#34;https://theoreticalminimum.com/&#34;&gt;The Theoritical Miniumum &lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The Theoretical Minimum is a series of Stanford Continuing Studies courses taught by world renowned physicist Leonard Susskind.  These courses collectively teach everything required to gain a basic understanding of each area of modern physics including all of the fundamental mathematics.&lt;/p&gt;&#xA;&lt;p&gt;The sequence begins with the modern formulations of classical mechanics discovered by Lagrange and Hamilton in the late 18th and 19th centuries, and then moves on to the radical new theories of relativity and quantum mechanics discovered by Albert Einstein and others in the early 20th century.  The sequence concludes with a study of modern cosmology including the physics of black holes.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The Art and Science of PCB Design</title>
-      <link>http://localhost:1313/post/the-art-and-science-of-pcb-design/</link>
+      <link>https://jbgreer.github.io/post/the-art-and-science-of-pcb-design/</link>
       <pubDate>Wed, 08 Jan 2025 19:35:19 -0600</pubDate>
-      <guid>http://localhost:1313/post/the-art-and-science-of-pcb-design/</guid>
+      <guid>https://jbgreer.github.io/post/the-art-and-science-of-pcb-design/</guid>
       <description>&lt;h2 id=&#34;the-art-and-science-of-pcb-designhttpspcbmitedu&#34;&gt;&lt;a href=&#34;https://pcb.mit.edu&#34;&gt;The Art and Science of PCB Design&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the official course website for the MIT IAP 2025 PCB Design Class! MIT students interested in taking the course should fill out this form. Those who are not MIT students or unable to join us during IAP 2025, but still interested in learning the basics of PCB design, can check out our course archives which has materials, labs, and recorded lectures from previous offerings of the class.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RacoGrad</title>
-      <link>http://localhost:1313/post/racograd/</link>
+      <link>https://jbgreer.github.io/post/racograd/</link>
       <pubDate>Tue, 07 Jan 2025 16:08:58 -0600</pubDate>
-      <guid>http://localhost:1313/post/racograd/</guid>
+      <guid>https://jbgreer.github.io/post/racograd/</guid>
       <description>&lt;h2 id=&#34;racogradhttpsgithubcomdev-null321racograd&#34;&gt;&lt;a href=&#34;https://github.com/dev-null321/RacoGrad&#34;&gt;RacoGrad&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;RacoGrad is a simple deep learning library implemented in Racket, a version of scheme-lisp, designed to provide a basic framework for building and training feedforward neural networks. The library includes essential components such as tensor operations, activation functions, loss functions, and backpropagation for gradient calculation and weight updates. This is a hobby project, with updates coming sporadically.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Unknown.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clojure Markov Chain Poetry</title>
-      <link>http://localhost:1313/post/clojure-markov-chain-poetry/</link>
+      <link>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</link>
       <pubDate>Mon, 06 Jan 2025 17:36:12 -0600</pubDate>
-      <guid>http://localhost:1313/post/clojure-markov-chain-poetry/</guid>
+      <guid>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</guid>
       <description>&lt;h2 id=&#34;clojure-generation-of-edward-lear-inspired-poetry&#34;&gt;Clojure generation of Edward Lear inspired poetry&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;We are going to explore Clojure by creating a fun project together. In particular, we will create a twitter bot that creates its text based on a mashup of Edward Lear’s poetry, and a goodly selection of functional programming text taken from Wikipedia.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://howistart.org&#34;&gt;How I Start&lt;/a&gt; entry by &lt;a href=&#34;https://gigasquidsoftware.com/&#34;&gt;Carin Meier&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clojure for the Brave and True</title>
-      <link>http://localhost:1313/post/clojure-for-the-brave-and-true/</link>
+      <link>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</link>
       <pubDate>Sun, 05 Jan 2025 13:01:22 -0600</pubDate>
-      <guid>http://localhost:1313/post/clojure-for-the-brave-and-true/</guid>
+      <guid>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</guid>
       <description>&lt;h2 id=&#34;clojure-for-the-brave-and-truehttpswwwbraveclojurecom&#34;&gt;&lt;a href=&#34;https://www.braveclojure.com/&#34;&gt;Clojure for the Brave and True&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Do you want to learn Clojure, the most powerful and fun programming language on the planet? Do you want to unravel the mysteries of Lisp and functional programming? Do you want to punch hobbits and track down glittery vampires? Then you need to read this book!&lt;/p&gt;&#xA;&lt;p&gt;Clojure’s popularity continues to grow, with companies like Netflix using it to build everything from complex, distributed systems to simple microservices to user interfaces. In Clojure for the Brave and True, you&amp;rsquo;ll learn to wield this awesome language to its fullest!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Explorations in Clojures Core Logic</title>
-      <link>http://localhost:1313/post/explorations-in-clojures-core-logic/</link>
+      <link>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</link>
       <pubDate>Sun, 05 Jan 2025 09:41:14 -0600</pubDate>
-      <guid>http://localhost:1313/post/explorations-in-clojures-core-logic/</guid>
+      <guid>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</guid>
       <description>&lt;h2 id=&#34;explorations-in-clojures-core-logichttpsjrheardtumblrcompost43575891007explorations-in-clojures-corelogic&#34;&gt;&lt;a href=&#34;https://jrheard.tumblr.com/post/43575891007/explorations-in-clojures-corelogic&#34;&gt;Explorations in Clojure&amp;rsquo;s Core Logic&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I first heard of core.logic three or four months ago, and I’ve been trying to learn more about it ever since. It’s apparently an implementation of miniKanren in Clojure, where miniKanren is a small language implemented in Scheme that’s a stripped-down version of a system called KANREN.&#xA;Long story short, core.logic is a library that lets you do logic programming in Clojure.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;source&#34;&gt;Source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jrheard.tumblr.com/&#34;&gt;a page of tumbling madness&lt;/a&gt; tumblelog by JR Heard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beautiful Racket</title>
-      <link>http://localhost:1313/post/beautiful-racket/</link>
+      <link>https://jbgreer.github.io/post/beautiful-racket/</link>
       <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
-      <guid>http://localhost:1313/post/beautiful-racket/</guid>
+      <guid>https://jbgreer.github.io/post/beautiful-racket/</guid>
       <description>&lt;h2 id=&#34;beautiful-racket-an-introduction-to-language-oriented-programminghttpsbeautifulracketcom&#34;&gt;&lt;a href=&#34;https://beautifulracket.com/&#34;&gt;Beautiful Racket, an Introduction to Language-oriented Programming&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;This book teaches you how to design and imple­ment program­ming languages, a powerful tech­nique known as language-oriented program­ming. We’ll be using Racket, a language expressly built for making other languages&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Author &lt;a href=&#34;https://matthewbutterick.com/&#34;&gt;Matthew Butterick&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MiniKanren</title>
-      <link>http://localhost:1313/post/minikanren/</link>
+      <link>https://jbgreer.github.io/post/minikanren/</link>
       <pubDate>Sat, 04 Jan 2025 20:53:06 -0600</pubDate>
-      <guid>http://localhost:1313/post/minikanren/</guid>
+      <guid>https://jbgreer.github.io/post/minikanren/</guid>
       <description>&lt;h2 id=&#34;relational-programming-in-minikanrenhttpsgithubcomwebyrddissertation-single-spacedblobmasterthesispdf&#34;&gt;&lt;a href=&#34;https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf&#34;&gt;Relational Programming in miniKanren&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The promise of logic programming is that programs can be written relationally,&#xA;without distinguishing between input and output arguments. Relational programs&#xA;are remarkably flexible—for example, a relational type-inferencer also performs type&#xA;checking and type inhabitation, while a relational theorem prover generates theo-&#xA;rems as well as proofs and can even be used as a simple proof assistant.&#xA;Unfortunately, writing relational programs is difficult, and requires many inter-&#xA;esting and unusual tools and techniques. For example, a relational interpreter for&#xA;a subset of Scheme might use nominal unification to support variable binding and&#xA;scope, Constraint Logic Programming over Finite Domains (CLP(FD)) to imple-&#xA;ment relational arithmetic, and tabling to improve termination behavior.&#xA;In this dissertation I present miniKanren, a family of languages specifically de-&#xA;signed for relational programming, and which supports a variety of relational idioms&#xA;and techniques. I show how miniKanren can be used to write interesting relational&#xA;programs, including an extremely flexible lean tableau theorem prover and a novel&#xA;constraint-free binary arithmetic system with strong termination guarantees. I also&#xA;present interesting and practical techniques used to implement miniKanren, includ-&#xA;ing a nominal unifier that uses triangular rather than idempotent substitutions and&#xA;a novel “walk”-based algorithm for variable lookup in triangular substitutions.&#xA;The result of this research is a family of languages that supports a variety of&#xA;relational idioms and techniques, making it feasible and useful to write interesting&#xA;programs as relations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scattered Thoughts</title>
-      <link>http://localhost:1313/post/scattered-thoughts/</link>
+      <link>https://jbgreer.github.io/post/scattered-thoughts/</link>
       <pubDate>Sat, 04 Jan 2025 20:50:21 -0600</pubDate>
-      <guid>http://localhost:1313/post/scattered-thoughts/</guid>
+      <guid>https://jbgreer.github.io/post/scattered-thoughts/</guid>
       <description>&lt;h2 id=&#34;scattered-thoughtshttpswwwscattered-thoughtsnet&#34;&gt;&lt;a href=&#34;https://www.scattered-thoughts.net/&#34;&gt;Scattered Thoughts&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Blog of Jamie Brandon on &amp;ldquo;Tinkering with systems.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ink and Switch</title>
-      <link>http://localhost:1313/post/ink-and-switch/</link>
+      <link>https://jbgreer.github.io/post/ink-and-switch/</link>
       <pubDate>Sat, 04 Jan 2025 20:40:53 -0600</pubDate>
-      <guid>http://localhost:1313/post/ink-and-switch/</guid>
+      <guid>https://jbgreer.github.io/post/ink-and-switch/</guid>
       <description>&lt;h2 id=&#34;ink-and-switchhttpswwwinkandswitchcom&#34;&gt;&lt;a href=&#34;https://www.inkandswitch.com/&#34;&gt;Ink and Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;An independent research lab exploring the future of tools for thought.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bo-Tato Lisp</title>
-      <link>http://localhost:1313/post/bo-tato-lisp/</link>
+      <link>https://jbgreer.github.io/post/bo-tato-lisp/</link>
       <pubDate>Sat, 04 Jan 2025 20:37:27 -0600</pubDate>
-      <guid>http://localhost:1313/post/bo-tato-lisp/</guid>
+      <guid>https://jbgreer.github.io/post/bo-tato-lisp/</guid>
       <description>&lt;h2 id=&#34;adventures-in-the-land-of-lisphttpsbo-tatogithubio20230617adventures-in-the-land-of-lisphtml&#34;&gt;&lt;a href=&#34;https://bo-tato.github.io/2023/06/17/adventures-in-the-land-of-lisp.html&#34;&gt;Adventures in the Land of Lisp&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I’ve been experimenting with lisps for about 6 month now, clojure, common lisp, emacs lisp, and a little racket. I recently finished my biggest code so far, solving all the Protohackers challenges in Common Lisp, so I thought I’d share my thoughts. I also contributed a little to “real software” with bug fixes and small features in projects but for the most part I don’t have any real experience yet, this is just my first impressions, not the words of someone experienced in these languages. The TLDR is: don’t be scared off by the parenthesis, and don’t assume languages are better because they’re more “modern”. If you’re tired of discussion of old topics (parenthesis, editors, languages), then skip ahead to the protohackers section for dissection of some tricky concurrency bugs.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple Made Easy</title>
-      <link>http://localhost:1313/post/simple-made-easy/</link>
+      <link>https://jbgreer.github.io/post/simple-made-easy/</link>
       <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
-      <guid>http://localhost:1313/post/simple-made-easy/</guid>
+      <guid>https://jbgreer.github.io/post/simple-made-easy/</guid>
       <description>&lt;h2 id=&#34;simple-made-easy---rich-hickey2011httpswwwyoutubecomwatchvlktk3hcgta8&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LKtk3HCgTa8&#34;&gt;Simple Made Easy - Rich Hickey(2011)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 30 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.&lt;/p&gt;&#xA;&lt;p&gt;This keynote was given at Strange Loop 2011, and is perhaps the best known and most highly regarded of Rich&amp;rsquo;s many excellent talks, ushering in a new way to think about the problems of software design and the constant fight against complexity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CPS</title>
-      <link>http://localhost:1313/post/cps/</link>
+      <link>https://jbgreer.github.io/post/cps/</link>
       <pubDate>Sat, 04 Jan 2025 16:55:14 -0600</pubDate>
-      <guid>http://localhost:1313/post/cps/</guid>
+      <guid>https://jbgreer.github.io/post/cps/</guid>
       <description>&lt;h2 id=&#34;continuation-passing-style&#34;&gt;Continuation-passing Style&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bernsteinbear.com/blog/cps/&#34;&gt;Into CPS, never to return&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;CPS, or continuation-passing style, is an intermediate representation for programs, particularly functional programs. It’s used in compilers for languages such as SML and Scheme.  Much of its utility comes from its support for tail calls and nonlocal control flow such as call/cc, but it can also be used as an optimization target just as SSA, or static single assignment, often is.&lt;/p&gt;&#xA;&lt;p&gt;In CPS, there are two rules: first, that function/operator arguments must always be trivial; second, that function calls do not return. From this, a lot falls out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Efficient ML</title>
-      <link>http://localhost:1313/post/efficient-ml/</link>
+      <link>https://jbgreer.github.io/post/efficient-ml/</link>
       <pubDate>Sat, 04 Jan 2025 16:10:20 -0600</pubDate>
-      <guid>http://localhost:1313/post/efficient-ml/</guid>
+      <guid>https://jbgreer.github.io/post/efficient-ml/</guid>
       <description>&lt;h2 id=&#34;tinyml-and-efficient-deep-learning-computinghttpsefficientmlai&#34;&gt;&lt;a href=&#34;https://efficientml.ai&#34;&gt;TinyML and Efficient Deep Learning Computing&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;MIT 6.5940 Fall 2024 course focuses on efficient machine learning and systems. This is a crucial area as deep neural networks demand extraordinary levels of computation, hindering its deployment on everyday devices and burdening the cloud infrastructure. This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. Topics include model compression, pruning, quantization, neural architecture search, distributed training, data/model parallelism, gradient compression, and on-device fine-tuning. It also introduces application-specific acceleration techniques for large language models and diffusion models. Students will get hands-on experience implementing model compression techniques and deploying large language models (Llama2-7B) on a laptop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dimity Jones</title>
-      <link>http://localhost:1313/post/dimity-jones/</link>
+      <link>https://jbgreer.github.io/post/dimity-jones/</link>
       <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
-      <guid>http://localhost:1313/post/dimity-jones/</guid>
+      <guid>https://jbgreer.github.io/post/dimity-jones/</guid>
       <description>&lt;h2 id=&#34;dimity-jones-in-puzzle-castlehttpsobnakwaitchiodimityjones&#34;&gt;&lt;a href=&#34;https://obnakwa.itch.io/dimityjones&#34;&gt;Dimity Jones in Puzzle Castle&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;A puzzle in the form of a single text file, of which only the first chapter is readable. Subsequent chapters must be deciphered by you, using the answers to puzzles that you must solve!  With eighty-nine conundrums to crack and ciphers to decode, this 110,000-word novel is unlike any other, offering dozens of hours of delight, befuddlement, and heart-pounding adventure to readers of all ages who love puzzles, programming, and poetry &amp;hellip; or at least poet-villains.&lt;/p&gt;</description>
     </item>
   </channel>

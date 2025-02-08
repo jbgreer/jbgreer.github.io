@@ -2,158 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nothing to see here</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jbgreer.github.io/tags/</link>
     <description>Recent content in Tags on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 17:36:03 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2025 15:35:27 -0600</lastBuildDate>
+    <atom:link href="https://jbgreer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course</title>
+      <link>https://jbgreer.github.io/tags/course/</link>
+      <pubDate>Sat, 08 Feb 2025 15:35:27 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/course/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TLA&#43;</title>
+      <link>https://jbgreer.github.io/tags/tla&#43;/</link>
+      <pubDate>Sat, 08 Feb 2025 15:35:27 -0600</pubDate>
+      <guid>https://jbgreer.github.io/tags/tla&#43;/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Programming Languages</title>
-      <link>http://localhost:1313/tags/programming-languages/</link>
+      <link>https://jbgreer.github.io/tags/programming-languages/</link>
       <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
-      <guid>http://localhost:1313/tags/programming-languages/</guid>
+      <guid>https://jbgreer.github.io/tags/programming-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust</title>
-      <link>http://localhost:1313/tags/rust/</link>
+      <link>https://jbgreer.github.io/tags/rust/</link>
       <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
-      <guid>http://localhost:1313/tags/rust/</guid>
+      <guid>https://jbgreer.github.io/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Scheme</title>
-      <link>http://localhost:1313/tags/scheme/</link>
+      <link>https://jbgreer.github.io/tags/scheme/</link>
       <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
-      <guid>http://localhost:1313/tags/scheme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Course</title>
-      <link>http://localhost:1313/tags/course/</link>
-      <pubDate>Fri, 24 Jan 2025 15:33:13 -0600</pubDate>
-      <guid>http://localhost:1313/tags/course/</guid>
+      <guid>https://jbgreer.github.io/tags/scheme/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>https://jbgreer.github.io/tags/math/</link>
       <pubDate>Fri, 24 Jan 2025 15:33:13 -0600</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
-      <pubDate>Mon, 20 Jan 2025 17:24:11 -0600</pubDate>
-      <guid>http://localhost:1313/tags/physics/</guid>
+      <guid>https://jbgreer.github.io/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronics</title>
-      <link>http://localhost:1313/tags/electronics/</link>
+      <link>https://jbgreer.github.io/tags/electronics/</link>
       <pubDate>Wed, 08 Jan 2025 19:35:19 -0600</pubDate>
-      <guid>http://localhost:1313/tags/electronics/</guid>
+      <guid>https://jbgreer.github.io/tags/electronics/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
+      <link>https://jbgreer.github.io/tags/deep-learning/</link>
       <pubDate>Tue, 07 Jan 2025 16:08:58 -0600</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <guid>https://jbgreer.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Racket</title>
-      <link>http://localhost:1313/tags/racket/</link>
+      <link>https://jbgreer.github.io/tags/racket/</link>
       <pubDate>Tue, 07 Jan 2025 16:08:58 -0600</pubDate>
-      <guid>http://localhost:1313/tags/racket/</guid>
+      <guid>https://jbgreer.github.io/tags/racket/</guid>
       <description></description>
     </item>
     <item>
       <title>Clojure</title>
-      <link>http://localhost:1313/tags/clojure/</link>
+      <link>https://jbgreer.github.io/tags/clojure/</link>
       <pubDate>Mon, 06 Jan 2025 17:36:12 -0600</pubDate>
-      <guid>http://localhost:1313/tags/clojure/</guid>
+      <guid>https://jbgreer.github.io/tags/clojure/</guid>
       <description></description>
     </item>
     <item>
       <title>MiniKanren</title>
-      <link>http://localhost:1313/tags/minikanren/</link>
+      <link>https://jbgreer.github.io/tags/minikanren/</link>
       <pubDate>Sun, 05 Jan 2025 09:41:14 -0600</pubDate>
-      <guid>http://localhost:1313/tags/minikanren/</guid>
+      <guid>https://jbgreer.github.io/tags/minikanren/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
-      <link>http://localhost:1313/tags/paper/</link>
+      <link>https://jbgreer.github.io/tags/paper/</link>
       <pubDate>Sat, 04 Jan 2025 20:53:06 -0600</pubDate>
-      <guid>http://localhost:1313/tags/paper/</guid>
+      <guid>https://jbgreer.github.io/tags/paper/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
+      <link>https://jbgreer.github.io/tags/blog/</link>
       <pubDate>Sat, 04 Jan 2025 20:50:21 -0600</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
+      <guid>https://jbgreer.github.io/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Lab</title>
-      <link>http://localhost:1313/tags/research-lab/</link>
+      <link>https://jbgreer.github.io/tags/research-lab/</link>
       <pubDate>Sat, 04 Jan 2025 20:40:53 -0600</pubDate>
-      <guid>http://localhost:1313/tags/research-lab/</guid>
+      <guid>https://jbgreer.github.io/tags/research-lab/</guid>
       <description></description>
     </item>
     <item>
       <title>Lisp</title>
-      <link>http://localhost:1313/tags/lisp/</link>
+      <link>https://jbgreer.github.io/tags/lisp/</link>
       <pubDate>Sat, 04 Jan 2025 20:37:27 -0600</pubDate>
-      <guid>http://localhost:1313/tags/lisp/</guid>
+      <guid>https://jbgreer.github.io/tags/lisp/</guid>
       <description></description>
     </item>
     <item>
       <title>Datatomic</title>
-      <link>http://localhost:1313/tags/datatomic/</link>
+      <link>https://jbgreer.github.io/tags/datatomic/</link>
       <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
-      <guid>http://localhost:1313/tags/datatomic/</guid>
+      <guid>https://jbgreer.github.io/tags/datatomic/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Design</title>
-      <link>http://localhost:1313/tags/software-design/</link>
+      <link>https://jbgreer.github.io/tags/software-design/</link>
       <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
-      <guid>http://localhost:1313/tags/software-design/</guid>
+      <guid>https://jbgreer.github.io/tags/software-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Video</title>
-      <link>http://localhost:1313/tags/video/</link>
+      <link>https://jbgreer.github.io/tags/video/</link>
       <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
-      <guid>http://localhost:1313/tags/video/</guid>
+      <guid>https://jbgreer.github.io/tags/video/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>https://jbgreer.github.io/tags/machine-learning/</link>
       <pubDate>Sat, 04 Jan 2025 16:10:20 -0600</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>https://jbgreer.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Book</title>
-      <link>http://localhost:1313/tags/book/</link>
+      <link>https://jbgreer.github.io/tags/book/</link>
       <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
-      <guid>http://localhost:1313/tags/book/</guid>
+      <guid>https://jbgreer.github.io/tags/book/</guid>
       <description></description>
     </item>
     <item>
       <title>Puzzle</title>
-      <link>http://localhost:1313/tags/puzzle/</link>
+      <link>https://jbgreer.github.io/tags/puzzle/</link>
       <pubDate>Sat, 04 Jan 2025 12:30:23 -0600</pubDate>
-      <guid>http://localhost:1313/tags/puzzle/</guid>
+      <guid>https://jbgreer.github.io/tags/puzzle/</guid>
       <description></description>
     </item>
   </channel>

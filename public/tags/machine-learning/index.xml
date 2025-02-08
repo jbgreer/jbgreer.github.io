@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Nothing to see here</title>
-    <link>http://localhost:1313/tags/machine-learning/</link>
+    <link>https://jbgreer.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sat, 04 Jan 2025 16:10:20 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Efficient ML</title>
-      <link>http://localhost:1313/post/efficient-ml/</link>
+      <link>https://jbgreer.github.io/post/efficient-ml/</link>
       <pubDate>Sat, 04 Jan 2025 16:10:20 -0600</pubDate>
-      <guid>http://localhost:1313/post/efficient-ml/</guid>
+      <guid>https://jbgreer.github.io/post/efficient-ml/</guid>
       <description>&lt;h2 id=&#34;tinyml-and-efficient-deep-learning-computinghttpsefficientmlai&#34;&gt;&lt;a href=&#34;https://efficientml.ai&#34;&gt;TinyML and Efficient Deep Learning Computing&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;MIT 6.5940 Fall 2024 course focuses on efficient machine learning and systems. This is a crucial area as deep neural networks demand extraordinary levels of computation, hindering its deployment on everyday devices and burdening the cloud infrastructure. This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. Topics include model compression, pruning, quantization, neural architecture search, distributed training, data/model parallelism, gradient compression, and on-device fine-tuning. It also introduces application-specific acceleration techniques for large language models and diffusion models. Students will get hands-on experience implementing model compression techniques and deploying large language models (Llama2-7B) on a laptop.&lt;/p&gt;</description>
     </item>
   </channel>

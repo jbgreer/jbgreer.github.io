@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MiniKanren on Nothing to see here</title>
-    <link>http://localhost:1313/tags/minikanren/</link>
+    <link>https://jbgreer.github.io/tags/minikanren/</link>
     <description>Recent content in MiniKanren on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sun, 05 Jan 2025 09:41:14 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/minikanren/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/minikanren/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explorations in Clojures Core Logic</title>
-      <link>http://localhost:1313/post/explorations-in-clojures-core-logic/</link>
+      <link>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</link>
       <pubDate>Sun, 05 Jan 2025 09:41:14 -0600</pubDate>
-      <guid>http://localhost:1313/post/explorations-in-clojures-core-logic/</guid>
+      <guid>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</guid>
       <description>&lt;h2 id=&#34;explorations-in-clojures-core-logichttpsjrheardtumblrcompost43575891007explorations-in-clojures-corelogic&#34;&gt;&lt;a href=&#34;https://jrheard.tumblr.com/post/43575891007/explorations-in-clojures-corelogic&#34;&gt;Explorations in Clojure&amp;rsquo;s Core Logic&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I first heard of core.logic three or four months ago, and I’ve been trying to learn more about it ever since. It’s apparently an implementation of miniKanren in Clojure, where miniKanren is a small language implemented in Scheme that’s a stripped-down version of a system called KANREN.&#xA;Long story short, core.logic is a library that lets you do logic programming in Clojure.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;source&#34;&gt;Source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jrheard.tumblr.com/&#34;&gt;a page of tumbling madness&lt;/a&gt; tumblelog by JR Heard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MiniKanren</title>
-      <link>http://localhost:1313/post/minikanren/</link>
+      <link>https://jbgreer.github.io/post/minikanren/</link>
       <pubDate>Sat, 04 Jan 2025 20:53:06 -0600</pubDate>
-      <guid>http://localhost:1313/post/minikanren/</guid>
+      <guid>https://jbgreer.github.io/post/minikanren/</guid>
       <description>&lt;h2 id=&#34;relational-programming-in-minikanrenhttpsgithubcomwebyrddissertation-single-spacedblobmasterthesispdf&#34;&gt;&lt;a href=&#34;https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf&#34;&gt;Relational Programming in miniKanren&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The promise of logic programming is that programs can be written relationally,&#xA;without distinguishing between input and output arguments. Relational programs&#xA;are remarkably flexible—for example, a relational type-inferencer also performs type&#xA;checking and type inhabitation, while a relational theorem prover generates theo-&#xA;rems as well as proofs and can even be used as a simple proof assistant.&#xA;Unfortunately, writing relational programs is difficult, and requires many inter-&#xA;esting and unusual tools and techniques. For example, a relational interpreter for&#xA;a subset of Scheme might use nominal unification to support variable binding and&#xA;scope, Constraint Logic Programming over Finite Domains (CLP(FD)) to imple-&#xA;ment relational arithmetic, and tabling to improve termination behavior.&#xA;In this dissertation I present miniKanren, a family of languages specifically de-&#xA;signed for relational programming, and which supports a variety of relational idioms&#xA;and techniques. I show how miniKanren can be used to write interesting relational&#xA;programs, including an extremely flexible lean tableau theorem prover and a novel&#xA;constraint-free binary arithmetic system with strong termination guarantees. I also&#xA;present interesting and practical techniques used to implement miniKanren, includ-&#xA;ing a nominal unifier that uses triangular rather than idempotent substitutions and&#xA;a novel “walk”-based algorithm for variable lookup in triangular substitutions.&#xA;The result of this research is a family of languages that supports a variety of&#xA;relational idioms and techniques, making it feasible and useful to write interesting&#xA;programs as relations.&lt;/p&gt;</description>
     </item>
   </channel>
