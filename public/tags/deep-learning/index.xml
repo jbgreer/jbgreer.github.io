@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Nothing to see here</title>
-    <link>http://localhost:1313/tags/deep-learning/</link>
+    <link>https://jbgreer.github.io/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Tue, 07 Jan 2025 16:08:58 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RacoGrad</title>
-      <link>http://localhost:1313/post/racograd/</link>
+      <link>https://jbgreer.github.io/post/racograd/</link>
       <pubDate>Tue, 07 Jan 2025 16:08:58 -0600</pubDate>
-      <guid>http://localhost:1313/post/racograd/</guid>
-      <description>&lt;h2 id=&#34;racogradhttpsgithubcomdev-null321racograd&#34;&gt;&lt;a href=&#34;https://github.com/dev-null321/RacoGrad&#34;&gt;RacoGrad&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;RacoGrad is a simple deep learning library implemented in Racket, a version of scheme-lisp, designed to provide a basic framework for building and training feedforward neural networks. The library includes essential components such as tensor operations, activation functions, loss functions, and backpropagation for gradient calculation and weight updates. This is a hobby project, with updates coming sporadically.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Unknown.&lt;/p&gt;</description>
+      <guid>https://jbgreer.github.io/post/racograd/</guid>
+      <description>&lt;h2 id=&#34;racograd&#34;&gt;&lt;a href=&#34;https://github.com/dev-null321/RacoGrad&#34;&gt;RacoGrad&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;RacoGrad is a simple deep learning library implemented in Racket, a version of scheme-lisp, designed to provide a basic framework for building and training feedforward neural networks. The library includes essential components such as tensor operations, activation functions, loss functions, and backpropagation for gradient calculation and weight updates. This is a hobby project, with updates coming sporadically.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Unknown.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Nothing to see here</title>
-    <link>http://localhost:1313/tags/math/</link>
+    <link>https://jbgreer.github.io/tags/math/</link>
     <description>Recent content in Math on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Fri, 24 Jan 2025 15:33:13 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Linear Algebra</title>
-      <link>http://localhost:1313/post/computational-linear-algebra/</link>
+      <link>https://jbgreer.github.io/post/computational-linear-algebra/</link>
       <pubDate>Fri, 24 Jan 2025 15:33:13 -0600</pubDate>
-      <guid>http://localhost:1313/post/computational-linear-algebra/</guid>
-      <description>&lt;h2 id=&#34;rob-101-computational-linear-algebrahttpsroboticsumicheduacademicscoursescourse-offeringsrob101-fall-2020&#34;&gt;&lt;a href=&#34;https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/&#34;&gt;ROB 101: Computational Linear Algebra&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Computational Linear Algebra is a pilot first-semester, first-year undergraduate course that will show how mathematics and computation are unified for reasoning about data and making discoveries about the world.&lt;/p&gt;&#xA;&lt;p&gt;Linear algebra and coding are rapidly becoming an essential foundation for the modern engineer in a computational world.  Students in this course will gain insights into the mathematical theory of linear algebra and its realization in practical computational tools.&lt;/p&gt;</description>
+      <guid>https://jbgreer.github.io/post/computational-linear-algebra/</guid>
+      <description>&lt;h2 id=&#34;rob-101-computational-linear-algebra&#34;&gt;&lt;a href=&#34;https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/&#34;&gt;ROB 101: Computational Linear Algebra&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Computational Linear Algebra is a pilot first-semester, first-year undergraduate course that will show how mathematics and computation are unified for reasoning about data and making discoveries about the world.&lt;/p&gt;&#xA;&lt;p&gt;Linear algebra and coding are rapidly becoming an essential foundation for the modern engineer in a computational world.  Students in this course will gain insights into the mathematical theory of linear algebra and its realization in practical computational tools.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

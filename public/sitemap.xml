@@ -2,134 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/course/</loc>
+    <loc>https://jbgreer.github.io/post/intensional-joy/</loc>
+    <lastmod>2025-02-18T15:19:28-06:00</lastmod>
+  </url><url>
+    <loc>https://jbgreer.github.io/</loc>
+    <lastmod>2025-02-18T15:19:28-06:00</lastmod>
+  </url><url>
+    <loc>https://jbgreer.github.io/post/</loc>
+    <lastmod>2025-02-18T15:19:28-06:00</lastmod>
+  </url><url>
+    <loc>https://jbgreer.github.io/tags/course/</loc>
     <lastmod>2025-02-08T15:35:27-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jbgreer.github.io/tags/</loc>
     <lastmod>2025-02-08T15:35:27-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://jbgreer.github.io/tags/tla&#43;/</loc>
     <lastmod>2025-02-08T15:35:27-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jbgreer.github.io/post/tla&#43;-video-course/</loc>
     <lastmod>2025-02-08T15:35:27-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tla&#43;/</loc>
-    <lastmod>2025-02-08T15:35:27-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/tla&#43;-video-course/</loc>
-    <lastmod>2025-02-08T15:35:27-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/programming-languages/</loc>
+    <loc>https://jbgreer.github.io/tags/programming-languages/</loc>
     <lastmod>2025-02-01T17:36:03-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
+    <loc>https://jbgreer.github.io/tags/rust/</loc>
     <lastmod>2025-02-01T17:36:03-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/rust-embedded-scheme/</loc>
+    <loc>https://jbgreer.github.io/post/rust-embedded-scheme/</loc>
     <lastmod>2025-02-01T17:36:03-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scheme/</loc>
+    <loc>https://jbgreer.github.io/tags/scheme/</loc>
     <lastmod>2025-02-01T17:36:03-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/computational-linear-algebra/</loc>
+    <loc>https://jbgreer.github.io/post/computational-linear-algebra/</loc>
     <lastmod>2025-01-24T15:33:13-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
+    <loc>https://jbgreer.github.io/tags/math/</loc>
     <lastmod>2025-01-24T15:33:13-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/electronics/</loc>
+    <loc>https://jbgreer.github.io/tags/electronics/</loc>
     <lastmod>2025-01-08T19:35:19-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/the-art-and-science-of-pcb-design/</loc>
+    <loc>https://jbgreer.github.io/post/the-art-and-science-of-pcb-design/</loc>
     <lastmod>2025-01-08T19:35:19-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <loc>https://jbgreer.github.io/tags/deep-learning/</loc>
     <lastmod>2025-01-07T16:08:58-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/racket/</loc>
+    <loc>https://jbgreer.github.io/tags/racket/</loc>
     <lastmod>2025-01-07T16:08:58-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/racograd/</loc>
+    <loc>https://jbgreer.github.io/post/racograd/</loc>
     <lastmod>2025-01-07T16:08:58-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/clojure/</loc>
+    <loc>https://jbgreer.github.io/tags/clojure/</loc>
     <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/clojure-markov-chain-poetry/</loc>
+    <loc>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</loc>
     <lastmod>2025-01-06T17:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/clojure-for-the-brave-and-true/</loc>
+    <loc>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</loc>
     <lastmod>2025-01-05T13:01:22-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/explorations-in-clojures-core-logic/</loc>
+    <loc>https://jbgreer.github.io/post/explorations-in-clojures-core-logic/</loc>
     <lastmod>2025-01-05T09:41:14-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/minikanren/</loc>
+    <loc>https://jbgreer.github.io/tags/minikanren/</loc>
     <lastmod>2025-01-05T09:41:14-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/beautiful-racket/</loc>
+    <loc>https://jbgreer.github.io/post/beautiful-racket/</loc>
     <lastmod>2025-01-04T21:03:31-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/minikanren/</loc>
+    <loc>https://jbgreer.github.io/post/minikanren/</loc>
     <lastmod>2025-01-04T20:53:06-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/paper/</loc>
+    <loc>https://jbgreer.github.io/tags/paper/</loc>
     <lastmod>2025-01-04T20:53:06-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://jbgreer.github.io/tags/blog/</loc>
     <lastmod>2025-01-04T20:50:21-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/scattered-thoughts/</loc>
+    <loc>https://jbgreer.github.io/post/scattered-thoughts/</loc>
     <lastmod>2025-01-04T20:50:21-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/ink-and-switch/</loc>
+    <loc>https://jbgreer.github.io/post/ink-and-switch/</loc>
     <lastmod>2025-01-04T20:40:53-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/research-lab/</loc>
+    <loc>https://jbgreer.github.io/tags/research-lab/</loc>
     <lastmod>2025-01-04T20:40:53-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/bo-tato-lisp/</loc>
+    <loc>https://jbgreer.github.io/post/bo-tato-lisp/</loc>
     <lastmod>2025-01-04T20:37:27-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lisp/</loc>
+    <loc>https://jbgreer.github.io/tags/lisp/</loc>
     <lastmod>2025-01-04T20:37:27-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/datatomic/</loc>
+    <loc>https://jbgreer.github.io/tags/datatomic/</loc>
     <lastmod>2025-01-04T20:29:44-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/simple-made-easy/</loc>
+    <loc>https://jbgreer.github.io/post/simple-made-easy/</loc>
     <lastmod>2025-01-04T20:29:44-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software-design/</loc>
+    <loc>https://jbgreer.github.io/tags/software-design/</loc>
     <lastmod>2025-01-04T20:29:44-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/video/</loc>
+    <loc>https://jbgreer.github.io/tags/video/</loc>
     <lastmod>2025-01-04T20:29:44-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/cps/</loc>
+    <loc>https://jbgreer.github.io/post/cps/</loc>
     <lastmod>2025-01-04T16:55:14-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/efficient-ml/</loc>
+    <loc>https://jbgreer.github.io/post/efficient-ml/</loc>
     <lastmod>2025-01-04T16:10:20-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>https://jbgreer.github.io/tags/machine-learning/</loc>
     <lastmod>2025-01-04T16:10:20-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jbgreer.github.io/about/</loc>
     <lastmod>2025-01-04T13:11:56-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/book/</loc>
+    <loc>https://jbgreer.github.io/tags/book/</loc>
     <lastmod>2025-01-04T12:30:23-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/dimity-jones/</loc>
+    <loc>https://jbgreer.github.io/post/dimity-jones/</loc>
     <lastmod>2025-01-04T12:30:23-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/puzzle/</loc>
+    <loc>https://jbgreer.github.io/tags/puzzle/</loc>
     <lastmod>2025-01-04T12:30:23-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jbgreer.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://jbgreer.github.io/series/</loc>
   </url>
 </urlset>

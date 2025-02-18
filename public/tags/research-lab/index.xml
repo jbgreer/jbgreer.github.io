@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Lab on Nothing to see here</title>
-    <link>http://localhost:1313/tags/research-lab/</link>
+    <link>https://jbgreer.github.io/tags/research-lab/</link>
     <description>Recent content in Research Lab on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sat, 04 Jan 2025 20:40:53 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/research-lab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jbgreer.github.io/tags/research-lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ink and Switch</title>
-      <link>http://localhost:1313/post/ink-and-switch/</link>
+      <link>https://jbgreer.github.io/post/ink-and-switch/</link>
       <pubDate>Sat, 04 Jan 2025 20:40:53 -0600</pubDate>
-      <guid>http://localhost:1313/post/ink-and-switch/</guid>
-      <description>&lt;h2 id=&#34;ink-and-switchhttpswwwinkandswitchcom&#34;&gt;&lt;a href=&#34;https://www.inkandswitch.com/&#34;&gt;Ink and Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;An independent research lab exploring the future of tools for thought.&lt;/p&gt;</description>
+      <guid>https://jbgreer.github.io/post/ink-and-switch/</guid>
+      <description>&lt;h2 id=&#34;ink-and-switch&#34;&gt;&lt;a href=&#34;https://www.inkandswitch.com/&#34;&gt;Ink and Switch&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;An independent research lab exploring the future of tools for thought.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
