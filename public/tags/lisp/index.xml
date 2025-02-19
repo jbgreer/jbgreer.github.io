@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisp on Nothing to see here</title>
-    <link>https://jbgreer.github.io/tags/lisp/</link>
+    <link>http://localhost:1313/tags/lisp/</link>
     <description>Recent content in Lisp on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sat, 04 Jan 2025 20:37:27 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bo-Tato Lisp</title>
-      <link>https://jbgreer.github.io/post/bo-tato-lisp/</link>
+      <link>http://localhost:1313/post/bo-tato-lisp/</link>
       <pubDate>Sat, 04 Jan 2025 20:37:27 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/bo-tato-lisp/</guid>
+      <guid>http://localhost:1313/post/bo-tato-lisp/</guid>
       <description>&lt;h2 id=&#34;adventures-in-the-land-of-lisp&#34;&gt;&lt;a href=&#34;https://bo-tato.github.io/2023/06/17/adventures-in-the-land-of-lisp.html&#34;&gt;Adventures in the Land of Lisp&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I’ve been experimenting with lisps for about 6 month now, clojure, common lisp, emacs lisp, and a little racket. I recently finished my biggest code so far, solving all the Protohackers challenges in Common Lisp, so I thought I’d share my thoughts. I also contributed a little to “real software” with bug fixes and small features in projects but for the most part I don’t have any real experience yet, this is just my first impressions, not the words of someone experienced in these languages. The TLDR is: don’t be scared off by the parenthesis, and don’t assume languages are better because they’re more “modern”. If you’re tired of discussion of old topics (parenthesis, editors, languages), then skip ahead to the protohackers section for dissection of some tricky concurrency bugs.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

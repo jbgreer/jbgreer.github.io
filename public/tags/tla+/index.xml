@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TLA&#43; on Nothing to see here</title>
-    <link>https://jbgreer.github.io/tags/tla&#43;/</link>
+    <link>http://localhost:1313/tags/tla&#43;/</link>
     <description>Recent content in TLA&#43; on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sat, 08 Feb 2025 15:35:27 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/tags/tla+/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tla+/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TLA&#43; Video Course</title>
-      <link>https://jbgreer.github.io/post/tla&#43;-video-course/</link>
+      <link>http://localhost:1313/post/tla&#43;-video-course/</link>
       <pubDate>Sat, 08 Feb 2025 15:35:27 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/tla&#43;-video-course/</guid>
+      <guid>http://localhost:1313/post/tla&#43;-video-course/</guid>
       <description>&lt;h2 id=&#34;tla-video-course&#34;&gt;&lt;a href=&#34;https://lamport.azurewebsites.net/video/videos.html&#34;&gt;TLA+ Video Course&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;This is a series of video lectures to teach programmers and software engineers how&#xA;to write their own TLA+ specifications.  It assumes a basic understanding of&#xA;programming concepts.  Some knowledge of elementary mathematics, such as might be&#xA;taught in a beginning university math course for computer scientists, would also be helpful.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;HN&lt;/p&gt;</description>
     </item>
   </channel>

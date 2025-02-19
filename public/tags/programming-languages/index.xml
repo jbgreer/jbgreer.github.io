@@ -2,46 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming Languages on Nothing to see here</title>
-    <link>https://jbgreer.github.io/tags/programming-languages/</link>
+    <link>http://localhost:1313/tags/programming-languages/</link>
     <description>Recent content in Programming Languages on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 17:36:03 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 16:35:44 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hazel</title>
+      <link>http://localhost:1313/post/hazel/</link>
+      <pubDate>Wed, 19 Feb 2025 16:35:44 -0600</pubDate>
+      <guid>http://localhost:1313/post/hazel/</guid>
+      <description>&lt;h2 id=&#34;hazel-live-functional-programming-languagewe-are-first-implementing-these-ideas-into-hazel-a-web-based-programming-environment-for-an-elmml-like-functional-programming-language-designed-around-typed-hole-driven-development&#34;&gt;&lt;a href=&#34;https://hazel.org&#34;&gt;Hazel live functional programming language&lt;/a&gt;We are first implementing these ideas into Hazel, a web-based programming environment for an Elm/ML-like functional programming language designed around typed-hole-driven development.&lt;/h2&gt;&#xA;&lt;p&gt;Uniquely, every incomplete program that you can construct using Hazel&amp;rsquo;s language of edit actions is both statically and dynamically well-defined, i.e. it has a (possibly incomplete) type, and you can run it to produce a (possibly incomplete) result. Consequently, Hazel serves as an elegant platform for research on the future of programming (and programming education).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rust Embedded Scheme</title>
-      <link>https://jbgreer.github.io/post/rust-embedded-scheme/</link>
+      <link>http://localhost:1313/post/rust-embedded-scheme/</link>
       <pubDate>Sat, 01 Feb 2025 17:36:03 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/rust-embedded-scheme/</guid>
+      <guid>http://localhost:1313/post/rust-embedded-scheme/</guid>
       <description>&lt;h2 id=&#34;steel-embeddable-scheme-interpreter-written-in-rust&#34;&gt;&lt;a href=&#34;https://github.com/mattwparas/steel&#34;&gt;Steel&lt;/a&gt;: embeddable scheme interpreter written in Rust&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Steel is an embeddable scheme interpreter, with a standalone cli included as well. Inspired largely by Racket, the language seeks to be ergonomic scheme variant helpful for embedding in applications, or to be used on its own with high performance functions implemented in Rust. The language implementation itself contains a fairly powerful macro system based on the syntax-rules style and a bytecode virtual machine. At the moment, it is not explicitly compliant with any individual scheme specification.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clojure Markov Chain Poetry</title>
-      <link>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</link>
+      <link>http://localhost:1313/post/clojure-markov-chain-poetry/</link>
       <pubDate>Mon, 06 Jan 2025 17:36:12 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/clojure-markov-chain-poetry/</guid>
+      <guid>http://localhost:1313/post/clojure-markov-chain-poetry/</guid>
       <description>&lt;h2 id=&#34;clojure-generation-of-edward-lear-inspired-poetry&#34;&gt;Clojure generation of Edward Lear inspired poetry&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;We are going to explore Clojure by creating a fun project together. In particular, we will create a twitter bot that creates its text based on a mashup of Edward Lear’s poetry, and a goodly selection of functional programming text taken from Wikipedia.&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://howistart.org&#34;&gt;How I Start&lt;/a&gt; entry by &lt;a href=&#34;https://gigasquidsoftware.com/&#34;&gt;Carin Meier&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clojure for the Brave and True</title>
-      <link>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</link>
+      <link>http://localhost:1313/post/clojure-for-the-brave-and-true/</link>
       <pubDate>Sun, 05 Jan 2025 13:01:22 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/clojure-for-the-brave-and-true/</guid>
+      <guid>http://localhost:1313/post/clojure-for-the-brave-and-true/</guid>
       <description>&lt;h2 id=&#34;clojure-for-the-brave-and-true&#34;&gt;&lt;a href=&#34;https://www.braveclojure.com/&#34;&gt;Clojure for the Brave and True&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Do you want to learn Clojure, the most powerful and fun programming language on the planet? Do you want to unravel the mysteries of Lisp and functional programming? Do you want to punch hobbits and track down glittery vampires? Then you need to read this book!&lt;/p&gt;&#xA;&lt;p&gt;Clojure’s popularity continues to grow, with companies like Netflix using it to build everything from complex, distributed systems to simple microservices to user interfaces. In Clojure for the Brave and True, you&amp;rsquo;ll learn to wield this awesome language to its fullest!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beautiful Racket</title>
-      <link>https://jbgreer.github.io/post/beautiful-racket/</link>
+      <link>http://localhost:1313/post/beautiful-racket/</link>
       <pubDate>Sat, 04 Jan 2025 21:03:31 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/beautiful-racket/</guid>
+      <guid>http://localhost:1313/post/beautiful-racket/</guid>
       <description>&lt;h2 id=&#34;beautiful-racket-an-introduction-to-language-oriented-programming&#34;&gt;&lt;a href=&#34;https://beautifulracket.com/&#34;&gt;Beautiful Racket, an Introduction to Language-oriented Programming&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;This book teaches you how to design and imple­ment program­ming languages, a powerful tech­nique known as language-oriented program­ming. We’ll be using Racket, a language expressly built for making other languages&lt;/p&gt;&#xA;&lt;h3 id=&#34;source&#34;&gt;Source&lt;/h3&gt;&#xA;&lt;p&gt;Author &lt;a href=&#34;https://matthewbutterick.com/&#34;&gt;Matthew Butterick&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bo-Tato Lisp</title>
-      <link>https://jbgreer.github.io/post/bo-tato-lisp/</link>
+      <link>http://localhost:1313/post/bo-tato-lisp/</link>
       <pubDate>Sat, 04 Jan 2025 20:37:27 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/bo-tato-lisp/</guid>
+      <guid>http://localhost:1313/post/bo-tato-lisp/</guid>
       <description>&lt;h2 id=&#34;adventures-in-the-land-of-lisp&#34;&gt;&lt;a href=&#34;https://bo-tato.github.io/2023/06/17/adventures-in-the-land-of-lisp.html&#34;&gt;Adventures in the Land of Lisp&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;I’ve been experimenting with lisps for about 6 month now, clojure, common lisp, emacs lisp, and a little racket. I recently finished my biggest code so far, solving all the Protohackers challenges in Common Lisp, so I thought I’d share my thoughts. I also contributed a little to “real software” with bug fixes and small features in projects but for the most part I don’t have any real experience yet, this is just my first impressions, not the words of someone experienced in these languages. The TLDR is: don’t be scared off by the parenthesis, and don’t assume languages are better because they’re more “modern”. If you’re tired of discussion of old topics (parenthesis, editors, languages), then skip ahead to the protohackers section for dissection of some tricky concurrency bugs.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

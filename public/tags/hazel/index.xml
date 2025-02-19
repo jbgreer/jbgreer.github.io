@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hazel on Nothing to see here</title>
+    <link>http://localhost:1313/tags/hazel/</link>
+    <description>Recent content in Hazel on Nothing to see here</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
+    <lastBuildDate>Wed, 19 Feb 2025 16:35:44 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hazel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hazel</title>
+      <link>http://localhost:1313/post/hazel/</link>
+      <pubDate>Wed, 19 Feb 2025 16:35:44 -0600</pubDate>
+      <guid>http://localhost:1313/post/hazel/</guid>
+      <description>&lt;h2 id=&#34;hazel-live-functional-programming-languagehttpshazelorg&#34;&gt;(Hazel live functional programming language)[https://hazel.org]&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.&lt;/p&gt;&#xA;&lt;p&gt;We are first implementing these ideas into Hazel, a web-based programming environment for an Elm/ML-like functional programming language designed around typed-hole-driven development.&lt;/p&gt;&#xA;&lt;p&gt;Uniquely, every incomplete program that you can construct using Hazel&amp;rsquo;s language of edit actions is both statically and dynamically well-defined, i.e. it has a (possibly incomplete) type, and you can run it to produce a (possibly incomplete) result. Consequently, Hazel serves as an elegant platform for research on the future of programming (and programming education).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

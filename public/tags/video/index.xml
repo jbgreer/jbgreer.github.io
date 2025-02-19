@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Nothing to see here</title>
-    <link>https://jbgreer.github.io/tags/video/</link>
+    <link>http://localhost:1313/tags/video/</link>
     <description>Recent content in Video on Nothing to see here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© [Jim Greer](https://jbgreer.github.io).</copyright>
     <lastBuildDate>Sat, 04 Jan 2025 20:29:44 -0600</lastBuildDate>
-    <atom:link href="https://jbgreer.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simple Made Easy</title>
-      <link>https://jbgreer.github.io/post/simple-made-easy/</link>
+      <link>http://localhost:1313/post/simple-made-easy/</link>
       <pubDate>Sat, 04 Jan 2025 20:29:44 -0600</pubDate>
-      <guid>https://jbgreer.github.io/post/simple-made-easy/</guid>
+      <guid>http://localhost:1313/post/simple-made-easy/</guid>
       <description>&lt;h2 id=&#34;simple-made-easy---rich-hickey2011&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LKtk3HCgTa8&#34;&gt;Simple Made Easy - Rich Hickey(2011)&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 30 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.&lt;/p&gt;&#xA;&lt;p&gt;This keynote was given at Strange Loop 2011, and is perhaps the best known and most highly regarded of Rich&amp;rsquo;s many excellent talks, ushering in a new way to think about the problems of software design and the constant fight against complexity.&lt;/p&gt;</description>
     </item>
   </channel>
